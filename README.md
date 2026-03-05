@@ -8,26 +8,13 @@ Software Engineer and Electronics Engineer focused on:
 - Web Development
 ## Tech Stack
 
-Languages:
-- Python
-- Java
-- SQL
-- NoSQL
+- Languages: Python, Java, SQL, NoSQL
 
-Frameworks:
-- React
-- ROS2
-- NestJS
-- FastAPI
+- Frameworks: React, ROS2, NestJS, FastAPI, Django
 
-Tools:
-- Docker
-- Git
-- Jenkins
+- Tools: Docker, Git, Jenkins
 
-Cloud:
-- GCP
-- AWS
+- Cloud: GCP, AWS
 
 ## Featured Projects
 
